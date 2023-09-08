@@ -18,4 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb,aws,netlify,redux,html,css,bootstrap,mysql,vscode," /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssandysanthosh&show_icons=true&locale=en" alt="ssandysanthosh" /></p>
+<h3 align="left">streak stats:</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssandysanthosh&" alt="ssandysanthosh" /></p>
